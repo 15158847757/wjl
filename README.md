@@ -1,3 +1,2 @@
 # wjl
-python fffffffff 
-我爱zjd
+努力学习 我爱敲代码
